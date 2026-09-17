@@ -1,7 +1,6 @@
 # OIM 3641 Classwork
 
 ## About Me
-## About Me
 
 Hi! I'm Abby Waterman, a student at Babson College with interests in entrepreneurship, technology, artificial intelligence, and sales. I'm currently learning Python and software development and am interested in using technology to build practical business solutions. This repository contains my coursework, exercises, and projects from OIM 3641.
 
